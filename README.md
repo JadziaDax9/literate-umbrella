@@ -1,18 +1,18 @@
 # Comic book tracker 
 
-##Frontend
+## Frontend
 
 
 
-##Backend
+## Backend
 
 
 
-##MiddleWare (glue)
+## MiddleWare (glue)
 
 
 
-##Logging
+## Logging
 
 * If you include date format in the log, it must be sortable. ISO-8601, ISO-3339 or a zero-padded timestamp. No exceptions.
 
